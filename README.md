@@ -66,9 +66,13 @@ Ensure the following tools are installed:
 
 ---
 
-### 📥 Clone the Repository
+✅ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/Anujkumar108/saas_landing_page.git
+cd saas_landing_page
 
-```bash
 
 
 📦 Install Dependencies
